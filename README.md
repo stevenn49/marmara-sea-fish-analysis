@@ -305,10 +305,6 @@ Morphometric measurements could potentially be collected directly at docks and p
 5. Estimate market value
 6. Automatically route fish through processing lines
 
-## 👤 Author
-
-**Stanciu Stefan**  
-Group 1107
 
 ## 📚 Project Context
 
